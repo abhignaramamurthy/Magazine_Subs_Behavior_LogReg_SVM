@@ -1,0 +1,2 @@
+# Magazine_Subs_Behavior_LogReg_SVM
+Understanding Magazine Subscription Behavior
